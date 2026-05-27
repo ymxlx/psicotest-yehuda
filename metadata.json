@@ -1,0 +1,6 @@
+{
+  "name": "PsicoTest",
+  "description": "Aplicación de quiz para determinar tipos de apego y amor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
