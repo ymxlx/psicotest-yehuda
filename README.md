@@ -3,6 +3,7 @@
 ![React 19](https://img.shields.io/badge/React-19-61dafb)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178c6)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![CI](https://github.com/yehudalevy-collab/psicotest-yehuda/actions/workflows/ci.yml/badge.svg)](https://github.com/yehudalevy-collab/psicotest-yehuda/actions/workflows/ci.yml)
 
 Quiz psicológico interactivo sobre relaciones — dos instrumentos clásicos de la psicología del apego y del amor, con resultados explicados y recomendaciones personalizadas. *Interfaz en español.*
 
